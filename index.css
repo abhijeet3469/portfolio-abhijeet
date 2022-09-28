@@ -251,7 +251,6 @@ a:hover {
     left: 9px;
     width: 50px;
     height: 50px;
-    /* background: transparent url(img/html.png) 0% 0% no-repeat padding-box; */
     opacity: 1;
 }
 
@@ -261,7 +260,6 @@ a:hover {
     left: 92px;
     width: 50px;
     height: 50px;
-    /* background: transparent url(img/css.png) 0% 0% no-repeat padding-box; */
     opacity: 1;
 }
 
@@ -271,8 +269,6 @@ a:hover {
     left: 160px;
     width: 50px;
     height: 50px;
-
-    /* background: transparent url('img/js.png') 0% 0% no-repeat padding-box; */
     opacity: 1;
 }
 
@@ -282,7 +278,6 @@ a:hover {
     left: 230px;
     width: 50px;
     height: 50px;
-    /* background: transparent url('img/netlify.png') 0% 0% no-repeat padding-box; */
     opacity: 1;
 }
 
@@ -292,7 +287,6 @@ a:hover {
     left: 308px;
     width: 50px;
     height: 50px;
-    /* background: transparent url('img/bootstrap.png') 0% 0% no-repeat padding-box; */
     opacity: 1;
 }
 
@@ -302,7 +296,6 @@ a:hover {
     left: 388px;
     width: 50px;
     height: 50px;
-    /* background: transparent url('img/react-native.png') 0% 0% no-repeat padding-box; */
     opacity: 1;
 }
 
@@ -312,7 +305,6 @@ a:hover {
     left: 470px;
     width: 50px;
     height: 50px;
-    /* background: transparent url('img/github.png') 0% 0% no-repeat padding-box; */
     opacity: 1;
 }
 
@@ -567,7 +559,7 @@ a:hover {
 
 .text10 {
     position: absolute;
-    top: 2523px;
+    top: 2511px;
     left: 595px;
     width: 199px;
     height: 42px;
@@ -581,7 +573,7 @@ a:hover {
 
 .line6 {
     position: absolute;
-    top: 2596px;
+    top: 2582px;
     left: 608px;
     width: 231px;
     border: 2px solid #FCA738;
@@ -591,7 +583,7 @@ a:hover {
 
 .box6 {
     position: absolute;
-    top: 2635px;
+    top: 2618px;
     left: 181px;
     width: 1156px;
     min-height: 606px;
@@ -695,9 +687,6 @@ a:hover {
 }
 
 .text13 {
-    position: absolute;
-    top: -1138px;
-    left: 56px;
     width: 253px;
     height: 31px;
     text-align: left;
@@ -718,8 +707,8 @@ a:hover {
 
 form {
     position: absolute;
-    top: -1049px;
-    left: 61px;
+    top: 30px;
+    left: 693px;
 }
 
 #name,
